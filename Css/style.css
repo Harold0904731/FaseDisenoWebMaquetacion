@@ -52,6 +52,15 @@
 .redes, .productos, .contacto{
 	text-align: left;
 }
+
+.ContentLogo{
+	float: left;
+    margin: 10px;
+}
+.ContentLogo img{
+	width: 50%;
+    height: 50px;
+}
 /*--------------------------------------------------------------
 16.0 - Totop
 --------------------------------------------------------------*/
